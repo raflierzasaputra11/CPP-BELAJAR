@@ -22,6 +22,13 @@ yang saya kerjakan secara bertahap dari dasar hingga lanjutan.
 - While Loop
 - Do While
 
+### Day 4 – Looping Lanjutan
+📂 Folder: `day4-lanjutan loop`
+- Lanjutan For Loop
+- Lanjutan While Loop
+- Lanjutan Do While
+- Latihan For, While, DoWhile
+
 ## 🎯 Tujuan
 - Memahami logika pemrograman
 - Melatih struktur kode C++
