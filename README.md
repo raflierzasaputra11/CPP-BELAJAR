@@ -28,7 +28,22 @@ yang saya kerjakan secara bertahap dari dasar hingga lanjutan.
 - Lanjutan While Loop
 - Lanjutan Do While
 - Latihan For, While, DoWhile
-
+  
+### Day 5 – Looping Lanjutan 2
+📂 Folder: `day4-lanjutan loop`
+- input genap
+- input
+- 
+### Day 6 – array
+📂 Folder: `day4-lanjutan loop`
+- array angka ganjil
+- array angka genap
+- array cari nilai terbesar
+- array+loop
+- cetak semua nilai
+- input array dari user
+- jumlahkan isi array
+  
 ## 🎯 Tujuan
 - Memahami logika pemrograman
 - Melatih struktur kode C++
